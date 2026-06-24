@@ -3,4 +3,4 @@
 	url = https://github.com/htiek/MiniData
 [submodule "StrUtils"]
 	path = StrUtils
-	url = https://github.com/htiek/StrUtils
+	url = https://github.com/stanford-cs103/StrUtils
